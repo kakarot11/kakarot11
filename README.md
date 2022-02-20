@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kakarot11
+- 👋 Hi, I’m Anirudh Singh
 - 👀 I’m interested in exploring new concepts
 - 🌱 I’m currently learning MySQL
 - 💞️ I’m looking to collaborate on Data related projects
