@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirudh Singh
 - 👀 I’m interested in exploring new ideas
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning MySQL and Python simultaneously
 - 💞️ I’m looking to collaborate on any kind of Data work.
 - 📫 How to reach me - singhanirudh244@gmail.com
 
